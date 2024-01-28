@@ -15,12 +15,3 @@ npm install
 ````
 ````
 node auto-Transfer.js
-````
-
-
-
-Make sure to handle your private key securely and avoid sharing it publicly. This script is intended for educational and testing purposes.
-
-Feel free to contribute, report issues, or suggest improvements!
-
-Adjust the content as needed, and feel free to add any specific details or instructions relevant to your use case.
